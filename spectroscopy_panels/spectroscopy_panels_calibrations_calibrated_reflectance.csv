@@ -1,1 +1,5 @@
 fulcrum_id,fulcrum_parent_id,fulcrum_record_id,version,latitude,longitude,geometry,created_at,updated_at,created_by,updated_by,wavelength_nm,reflectance
+5132fda6-5983-46e7-aca8-45a291324d88,ba748098-3c74-42c8-a42b-c29a2e6f2c94,74fc0e98-5a56-459d-90fd-8caf4fa62f24,1,,,,2018-05-30 13:32:03 EDT,2018-05-30 13:32:03 EDT,etienne.laliberte@umontreal.ca,etienne.laliberte@umontreal.ca,250,0.931984
+0057ba66-7d50-4d31-b06e-f75add4a3459,02bd5ae8-1e13-48ec-bf97-e7249e295d0b,21f63abb-fdc0-4510-8645-6a318273c25e,1,,,,2018-05-30 13:43:50 EDT,2018-05-30 13:43:50 EDT,etienne.laliberte@umontreal.ca,etienne.laliberte@umontreal.ca,250,0.9540
+1be152a5-05cb-405b-a0aa-1785534733ee,37ffa45d-4e65-48c5-8b32-bc08e6e710f4,1dff9c1b-c46d-49d2-be39-18f4fd795a49,1,,,,2018-05-30 13:45:18 EDT,2018-05-30 13:45:18 EDT,etienne.laliberte@umontreal.ca,etienne.laliberte@umontreal.ca,250,0.9501
+33b7aeb3-a9bd-4aa9-9266-cfd2872f2ff6,80985713-ed1e-438a-94f3-7d0d10d56c7b,4d55d943-afbf-4298-9ca7-0776ccfe4bef,1,,,,2018-05-30 13:44:44 EDT,2018-05-30 13:44:44 EDT,etienne.laliberte@umontreal.ca,etienne.laliberte@umontreal.ca,250,0.9559
