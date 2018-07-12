@@ -1,0 +1,2 @@
+fulcrum_id,fulcrum_parent_id,fulcrum_record_id,version,latitude,longitude,geometry,created_at,updated_at,created_by,updated_by,wavelength_nm,reflectance
+dad315f8-460b-402c-8dda-aac45f3f2ee4,c360927c-c62e-4796-a0aa-52547fa86e6e,e9f4b3ef-aefd-4feb-aba6-7de289eba3f2,1,,,,2018-07-12 11:45:16 EDT,2018-07-12 11:45:16 EDT,etienne.laliberte@umontreal.ca,etienne.laliberte@umontreal.ca,250,0.9505
